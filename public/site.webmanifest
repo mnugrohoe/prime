@@ -1,0 +1,29 @@
+{
+  "name": "Prime",
+  "short_name": "Prime",
+  "icons": [
+    {
+      "src": "/favicon-16x16.avif",
+      "sizes": "16x16",
+      "type": "image/avif"
+    },
+    {
+      "src": "/favicon-32x32.avif",
+      "sizes": "32x32",
+      "type": "image/avif"
+    },
+    {
+      "src": "/android-chrome-192x192.avif",
+      "sizes": "192x192",
+      "type": "image/avif"
+    },
+    {
+      "src": "/android-chrome-512x512.avif",
+      "sizes": "512x512",
+      "type": "image/avif"
+    }
+  ],
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "display": "standalone"
+}
